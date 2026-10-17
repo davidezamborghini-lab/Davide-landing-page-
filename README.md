@@ -1,4 +1,4 @@
-# DANOTREAL — Power Bank Landing Page
+# VIVID — Power Bank Landing Page
 
 Premium concept landing page with a **real-time WebGL 3D scroll animation** showing a magnetic power bank attaching to a smartphone.
 
